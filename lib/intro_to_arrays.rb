@@ -22,20 +22,20 @@ def last_element(my_last_element)
 end
 
 
-def first_element_with_array_method(array)
-  array = ["Out of The Woods","Lmao","Lol","Taylor Swift"]
-  array.first
+def first_element_with_array_method(first_country)
+  south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+  first_country = @south_east_asia.first
 end
 
 
-def last_element_with_array_method(array)
-array = ["Out of The Woods","Lmao","Lol","Taylor Swift"]
-array.last
+def last_element_with_array_method(last_country)
+  @south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+    last_country = @south_east_asia.last
 end
 
 
 
-def length_of_array(array)
-  array = ["Out of The Woods","Lmao","Lol","Taylor Swift"]
-  array.length
+def length_of_array(length)
+  @programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
+  length = @programming_languages.length
 end
