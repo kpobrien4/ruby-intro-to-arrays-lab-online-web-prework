@@ -15,3 +15,8 @@ def third_element(my_third_element)
   my_third_element = ["Rock Lee","john roach", "Style"]
   my_third_element[2]
 end
+
+def last_element(my_last_element)
+  my_last_element = ["Rock Lee","john roach", "Out of The Woods"]
+  my_last_element[-1]
+end
