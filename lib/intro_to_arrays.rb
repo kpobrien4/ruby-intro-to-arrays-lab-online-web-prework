@@ -20,3 +20,24 @@ def last_element(my_last_element)
   my_last_element = ["Rock Lee","john roach", "Out of The Woods"]
   my_last_element[-1]
 end
+
+
+def first_element_with_array_methods
+
+
+end
+
+
+def last_element_with_array_method
+
+
+
+
+
+def length_of_array(array)
+  array = ["Out of The Woods","Lmao","Lol","Taylor Swift"]
+  array.length
+end
+
+
+  
